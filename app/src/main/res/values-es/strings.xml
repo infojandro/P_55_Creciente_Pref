@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">P_02_Vistas_01</string>
+    <string name="JUGAR">JUGAR</string>
+    <string name="CONFIGURACION">CONFIGURACION</string>
+    <string name="BUTTON">ACERCA DE</string>
+    <string name="BUTTON4">FINALIZAR</string>
+    <string name="creciente">CRECIENTE</string>
+</resources>

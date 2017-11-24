@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">P_55_Creciente_Pref</string>
+    <string name="JUGAR">PLAY</string>
+    <string name="CONFIGURACION">SETTINGS</string>
+    <string name="BUTTON">ABOUT OF</string>
+    <string name="BUTTON4">EXIT</string>
+    <string name="creciente">CRECIENTE</string>
+    <string name="title_activity_segunda">SegundaActivity</string>
+    <string name="mensa">Ejemplo de Lanzador de Actividades</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="info">ic_menu_info_details</string>
+    <string name="edit">ic_menu_preferences</string>
+    <string name="mensa_prepara">En preparación</string>
+</resources>
